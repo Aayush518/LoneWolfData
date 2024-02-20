@@ -30,11 +30,6 @@ The repository is organized as follows:
 
 1. **Explore Datasets**: Browse through the directories to discover datasets that interest you.
 2. **Download Data**: Simply download the datasets you need and start using them in your projects.
-3. **Contribute**: If you have datasets to share or want to improve existing ones, feel free to contribute! Check our [contribution guidelines](CONTRIBUTING.md) for more information.
-
-## Contributors
-
-This repository is made possible by the contributions of individuals like you. Thank you to all our contributors for helping us build a valuable resource for the community!
 
 ## License
 
